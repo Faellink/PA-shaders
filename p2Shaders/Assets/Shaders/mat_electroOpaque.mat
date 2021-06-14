@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: mat_cloud 1
-  m_Shader: {fileID: -6465566751694194690, guid: 394cb78755590014d821bebdb3bad73c, type: 3}
+  m_Name: mat_electroOpaque
+  m_Shader: {fileID: -6465566751694194690, guid: a7bad79a0bd355d4cbe1f019faeeb829, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,10 +19,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -36,23 +32,12 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_150AEC14: 20
-    - Vector1_1C13E9DB: -0.5
-    - Vector1_2A0C971B: 1
-    - Vector1_2AEBF55E: 1.2
-    - Vector1_4D839AAC: 4.6
-    - Vector1_5FD091B9: 69.4
-    - Vector1_75DA7D10: 3294.4
-    - Vector1_7710C9B: 1
-    - Vector1_8F89338B: 55.28
-    - Vector1_A931D240: 0.01
-    - Vector1_D5D352DC: -0.5
-    - Vector1_D82284B6: 1.47
-    - Vector1_DB85C24D: 8
-    - Vector1_F2113D60: 30
+    - Vector1_89b12e49c6e549ff8d047d5badeebb89: 2
+    - Vector1_a16762a9da114eadab4bd196b162705f: 2
+    - Vector1_ac44f3b226c748bca5a5ebea81473bdc: 0
+    - Vector1_f0971b2cca224eae91acc7512b61c679: 20
     m_Colors:
-    - Color_1AB5F3EF: {r: 0, g: 0, b: 0, a: 0}
-    - Color_D23C8EF9: {r: 1, g: 0, b: 0, a: 0}
-    - Vector4_973DA92B: {r: 0, g: 1, b: -1, a: 1}
-    - Vector4_A472B6CF: {r: 1, g: 1, b: 0, a: 90}
+    - Color_9a4c2f0db47543d58de0b5dd3768e5aa: {r: 2, g: 2, b: 2, a: 1}
+    - Vector2_295d7fa80d8b4b26bf526cd0b03d48f0: {r: 0.1, g: -0.5, b: 0, a: 0}
+    - Vector2_55aa7429af55458daa55cd9a57027476: {r: 0, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
