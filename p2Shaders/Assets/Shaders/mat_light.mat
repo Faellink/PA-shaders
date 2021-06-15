@@ -10,10 +10,10 @@ Material:
   m_Name: mat_light
   m_Shader: {fileID: -6465566751694194690, guid: eb1d2e7822279224c818e026fbfe0fc0, type: 3}
   m_ShaderKeywords: 
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 3001
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
